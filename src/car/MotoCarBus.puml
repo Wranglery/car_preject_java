@@ -1,0 +1,10 @@
+@startuml
+
+
+MotoVehicle->Mcar:车牌、品牌、颜色、里程
+
+MotoVehicle->Bus:车牌、品牌、颜色、里程
+
+
+
+@enduml
